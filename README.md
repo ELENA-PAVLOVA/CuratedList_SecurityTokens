@@ -1,3 +1,8 @@
+# Feel free to EDIT/ADD data by adding new Pull Request!!!!
+How to add new PullRequest - https://help.github.com/articles/creating-a-pull-request/
+
+
+
 # CuratedList of SecurityTokens
 
 Last Update: 29.09.2018
